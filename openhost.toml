@@ -1,7 +1,7 @@
 [app]
 name = "keycloak"
 version = "0.1.0"
-description = "Keycloak identity provider - public auth backend for managed OpenHost customers"
+description = "Keycloak identity provider - public auth backend for managed Cloud in a Bottle customers"
 authors = ["Andrew Laack <andrew@laack.co>"]
 
 [runtime.container]
